@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a minecraft serv
+- 🔭 I’m currently working on multiple projects
 - 🌱 I’m currently learning Linux in depth
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
