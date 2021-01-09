@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**bo-iliev/bo-iliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on a minecraft serv
 - 🌱 I’m currently learning Linux in depth
 <!--- 👯 I’m looking to collaborate on ...
